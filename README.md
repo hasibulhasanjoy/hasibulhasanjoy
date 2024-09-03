@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamhasibjoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibul-hasan-05205a228)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamhasibjoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibul-hasan-05205a228) [![Leetcode](https://img.shields.io/badge/Leetcode-gold?style=flat&logoColor=white)](https://leetcode.com/u/HasibulHasanJoy/)
 
 # 💻 Tech Stack:
 
