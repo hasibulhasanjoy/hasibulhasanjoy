@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Hasibul Hasan</h1>
-<h3 align="center">A 3rd year CSE student form University of Rajshahi</h3>
 
 ## 🌐 Socials:
 
