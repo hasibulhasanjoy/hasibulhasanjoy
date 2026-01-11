@@ -78,13 +78,6 @@ Consistently improving problem-solving skills with an interview-oriented approac
 
 ---
 
-## 📊 GitHub Stats
-
-![Hasibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasibulHasan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulHasan&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [Hasibul Hasan](https://www.linkedin.com/in/hasibul-hasan-05205a228/)
