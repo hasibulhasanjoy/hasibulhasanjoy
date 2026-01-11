@@ -1,9 +1,109 @@
-<h1 align="center">Hi, I'm Hasibul Hasan</h1>
+# 👋 Hi, I'm Hasibul Hasan
 
-## 🌐 Socials:
+🎓 CSE Undergraduate at **University of Rajshahi**  
+💻 Aspiring **Software Engineer** | Problem Solver | Backend Enthusiast  
+📍 Rajshahi, Bangladesh
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamhasibjoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibul-hasan-05205a228) [![Leetcode](https://img.shields.io/badge/Leetcode-gold?style=flat&logoColor=white)](https://leetcode.com/u/HasibulHasanJoy/)
+---
 
-# 💻 Tech Stack:
+## 🚀 About Me
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+I'm a Computer Science student who enjoys **core programming, problem solving, and backend development** .  
+I like understanding how systems work under the hood and writing clean, maintainable code.
+
+I’m mainly focused on building strong fundamentals in:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Software Design Concepts
+
+My long-term goal is to become a skilled **software engineer** who builds reliable and efficient systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+- C / C++
+- Java
+- JavaScript
+- Python (basic – for ML & scripting)
+
+### 🌐 Web & Backend
+- HTML, CSS
+- Tailwind CSS
+- JavaScript (ES6+)
+- Node.js, Express.js
+- Basic Django
+
+### 🧠 CS Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Design Patterns
+- Operating Systems (academic)
+- Database Systems (SQL basics)
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Windows 11
+- Postman
+
+---
+
+## 🧩 Problem Solving
+
+### 🔹 LeetCode
+- ✅ Solved **183+ problems**
+- 🔗 Profile: [HasibulHasanJoy](https://leetcode.com/u/HasibulHasanJoy/)
+
+Consistently improving problem-solving skills with an interview-oriented approach.
+
+
+---
+
+## 🧪 Academic Work
+
+### 🔹 Final Year Thesis (Planned)
+> **Underwater Image Enhancement Using Deep Neural Network**
+
+- Image preprocessing techniques
+- CNN-based classification models
+- Goal: improve accuracy in low-visibility underwater images
+
+---
+
+## 🏆 Competitive Programming
+
+- Solved ~200 problems on Codeforces
+
+---
+
+## 📊 GitHub Stats
+
+![Hasibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasibulHasan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulHasan&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Hasibul Hasan](https://www.linkedin.com/in/hasibul-hasan-05205a228/)
+- 📧 Email: hasibulhasanjoy..007@gmail.com
+
+
+Open to:
+- Learning opportunities
+- Collaborative projects
+- Technical discussions
+
+---
+
+## ⚡ Fun Facts
+
+- 🎮 Gaming helps me reset after long coding sessions
+- 🎌 Anime fan
+
+---
+
+> _"First make it work. Then make it right. Then make it fast."_  
+> — Real engineering mindset
