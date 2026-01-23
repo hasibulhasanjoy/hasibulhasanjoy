@@ -53,7 +53,7 @@ My long-term goal is to become a skilled **software engineer** who builds reliab
 ## 🧩 Problem Solving
 
 ### 🔹 LeetCode
-- ✅ Solved **185+ problems**
+- ✅ Solved **190+ problems**
 - 🔗 Profile: [HasibulHasanJoy](https://leetcode.com/u/HasibulHasanJoy/)
 
 Consistently improving problem-solving skills with an interview-oriented approach.
