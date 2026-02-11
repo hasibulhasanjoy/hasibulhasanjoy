@@ -20,36 +20,6 @@ My long-term goal is to become a skilled **software engineer** who builds reliab
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-- C / C++
-- Java
-- JavaScript
-- Python (basic – for ML & scripting)
-
-### 🌐 Web & Backend
-- HTML, CSS
-- Tailwind CSS
-- JavaScript (ES6+)
-- Node.js, Express.js
-- Basic Django
-
-### 🧠 CS Fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Design Patterns
-- Operating Systems (academic)
-- Database Systems (SQL basics)
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Windows 11
-- Postman
-
----
-
 ## 🧩 Problem Solving
 
 ### 🔹 LeetCode
@@ -57,7 +27,6 @@ My long-term goal is to become a skilled **software engineer** who builds reliab
 - 🔗 Profile: [HasibulHasanJoy](https://leetcode.com/u/HasibulHasanJoy/)
 
 Consistently improving problem-solving skills with an interview-oriented approach.
-
 
 ---
 
